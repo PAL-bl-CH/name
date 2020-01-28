@@ -1,1 +1,1 @@
-print('hello world')
+print('Tambovskaia yuvelirnaia kompania kruto')
